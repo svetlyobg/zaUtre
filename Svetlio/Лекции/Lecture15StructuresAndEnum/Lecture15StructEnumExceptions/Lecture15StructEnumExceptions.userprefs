@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="_2_/_2_.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_2_/Program.cs">
+    <Files>
+      <File FileName="Lecture15StructEnumExceptions/Program.cs" Line="7" Column="51" />
+      <File FileName="_2_/Program.cs" Line="15" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

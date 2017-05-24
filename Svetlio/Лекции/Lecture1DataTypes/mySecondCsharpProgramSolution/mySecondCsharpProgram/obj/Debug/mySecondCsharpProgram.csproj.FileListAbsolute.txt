@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\mySecondCsharpProgramSolution\mySecondCsharpProgram\bin\Debug\mySecondCsharpProgram.exe.config
+E:\Projects\ZaUtre\mySecondCsharpProgramSolution\mySecondCsharpProgram\bin\Debug\mySecondCsharpProgram.exe
+E:\Projects\ZaUtre\mySecondCsharpProgramSolution\mySecondCsharpProgram\bin\Debug\mySecondCsharpProgram.pdb
+E:\Projects\ZaUtre\mySecondCsharpProgramSolution\mySecondCsharpProgram\obj\Debug\mySecondCsharpProgram.exe
+E:\Projects\ZaUtre\mySecondCsharpProgramSolution\mySecondCsharpProgram\obj\Debug\mySecondCsharpProgram.pdb

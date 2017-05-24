@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_2_InheritPerson\bin\Debug\_2_InheritPerson.exe.config
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_2_InheritPerson\bin\Debug\_2_InheritPerson.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_2_InheritPerson\bin\Debug\_2_InheritPerson.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_2_InheritPerson\obj\Debug\_2_InheritPerson.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_2_InheritPerson\obj\Debug\_2_InheritPerson.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_2_InheritPerson\obj\Debug\_2_InheritPerson.pdb

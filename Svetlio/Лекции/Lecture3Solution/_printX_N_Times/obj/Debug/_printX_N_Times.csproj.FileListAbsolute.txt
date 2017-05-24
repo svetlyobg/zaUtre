@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecure3Solution\_printX_N_Times\bin\Debug\_printX_N_Times.exe.config
+E:\Projects\ZaUtre\Lecure3Solution\_printX_N_Times\bin\Debug\_printX_N_Times.exe
+E:\Projects\ZaUtre\Lecure3Solution\_printX_N_Times\bin\Debug\_printX_N_Times.pdb
+E:\Projects\ZaUtre\Lecure3Solution\_printX_N_Times\obj\Debug\_printX_N_Times.exe
+E:\Projects\ZaUtre\Lecure3Solution\_printX_N_Times\obj\Debug\_printX_N_Times.pdb
+E:\Projects\ZaUtre\Lecure3Solution\_printX_N_Times\obj\Debug\_printX_N_Times.csprojResolveAssemblyReference.cache

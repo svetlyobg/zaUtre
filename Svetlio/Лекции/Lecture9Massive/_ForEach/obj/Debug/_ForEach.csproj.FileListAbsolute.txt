@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture8Massive\_ForEach\bin\Debug\_ForEach.exe.config
+E:\Projects\ZaUtre\Lecture8Massive\_ForEach\bin\Debug\_ForEach.exe
+E:\Projects\ZaUtre\Lecture8Massive\_ForEach\bin\Debug\_ForEach.pdb
+E:\Projects\ZaUtre\Lecture8Massive\_ForEach\obj\Debug\_ForEach.exe
+E:\Projects\ZaUtre\Lecture8Massive\_ForEach\obj\Debug\_ForEach.pdb
+E:\Projects\ZaUtre\Lecture8Massive\_ForEach\obj\Debug\_ForEach.csprojResolveAssemblyReference.cache

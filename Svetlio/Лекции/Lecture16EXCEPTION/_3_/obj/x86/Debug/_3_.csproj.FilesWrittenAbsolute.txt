@@ -1,0 +1,5 @@
+/home/svet/Документи/CSharp/Lecture16EXCEPTION/Lecture16EXCEPTION/_3_/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/svet/Документи/CSharp/Lecture16EXCEPTION/Lecture16EXCEPTION/_3_/bin/Debug/_3_.pdb
+/home/svet/Документи/CSharp/Lecture16EXCEPTION/Lecture16EXCEPTION/_3_/bin/Debug/_3_.exe
+/home/svet/Документи/CSharp/Lecture16EXCEPTION/Lecture16EXCEPTION/_3_/obj/x86/Debug/_3_.exe
+/home/svet/Документи/CSharp/Lecture16EXCEPTION/Lecture16EXCEPTION/_3_/obj/x86/Debug/_3_.pdb

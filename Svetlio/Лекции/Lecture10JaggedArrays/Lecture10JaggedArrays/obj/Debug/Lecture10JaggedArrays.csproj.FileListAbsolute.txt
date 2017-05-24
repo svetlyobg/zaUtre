@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture10JaggedArrays\Lecture10JaggedArrays\bin\Debug\Lecture10JaggedArrays.exe.config
+E:\Projects\ZaUtre\Lecture10JaggedArrays\Lecture10JaggedArrays\bin\Debug\Lecture10JaggedArrays.exe
+E:\Projects\ZaUtre\Lecture10JaggedArrays\Lecture10JaggedArrays\bin\Debug\Lecture10JaggedArrays.pdb
+E:\Projects\ZaUtre\Lecture10JaggedArrays\Lecture10JaggedArrays\obj\Debug\Lecture10JaggedArrays.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture10JaggedArrays\Lecture10JaggedArrays\obj\Debug\Lecture10JaggedArrays.exe
+E:\Projects\ZaUtre\Lecture10JaggedArrays\Lecture10JaggedArrays\obj\Debug\Lecture10JaggedArrays.pdb

@@ -1,0 +1,12 @@
+E:\Projects\ZaUtre\_1_\_1_\bin\Debug\_1_.exe.config
+E:\Projects\ZaUtre\_1_\_1_\bin\Debug\_1_.exe
+E:\Projects\ZaUtre\_1_\_1_\bin\Debug\_1_.pdb
+E:\Projects\ZaUtre\_1_\_1_\obj\Debug\_1_Inheritance.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\_1_\_1_\obj\Debug\_1_.exe
+E:\Projects\ZaUtre\_1_\_1_\obj\Debug\_1_.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_1_\bin\Debug\_1_.exe.config
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_1_\bin\Debug\_1_.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_1_\bin\Debug\_1_.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_1_\obj\Debug\_1_Inheritance.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_1_\obj\Debug\_1_.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_1_\obj\Debug\_1_.pdb

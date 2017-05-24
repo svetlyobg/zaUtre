@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture8Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture8Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+E:\Projects\ZaUtre\Lecture8Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+E:\Projects\ZaUtre\Lecture8Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+E:\Projects\ZaUtre\Lecture8Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+E:\Projects\ZaUtre\Lecture8Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

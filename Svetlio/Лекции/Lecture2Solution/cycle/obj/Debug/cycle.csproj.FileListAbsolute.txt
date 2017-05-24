@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\lectureTwoSolution\cycle\bin\Debug\cycle.exe.config
+E:\Projects\ZaUtre\lectureTwoSolution\cycle\bin\Debug\cycle.exe
+E:\Projects\ZaUtre\lectureTwoSolution\cycle\bin\Debug\cycle.pdb
+E:\Projects\ZaUtre\lectureTwoSolution\cycle\obj\Debug\cycle.exe
+E:\Projects\ZaUtre\lectureTwoSolution\cycle\obj\Debug\cycle.pdb

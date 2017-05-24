@@ -1,0 +1,6 @@
+D:\ProjectsVisualStudio\hristoCircleConsole\hristoCircleConsole\obj\Debug\hristoCircleConsole.csprojResolveAssemblyReference.cache
+D:\ProjectsVisualStudio\hristoCircleConsole\hristoCircleConsole\bin\Debug\hristoCircleConsole.exe.config
+D:\ProjectsVisualStudio\hristoCircleConsole\hristoCircleConsole\bin\Debug\hristoCircleConsole.exe
+D:\ProjectsVisualStudio\hristoCircleConsole\hristoCircleConsole\bin\Debug\hristoCircleConsole.pdb
+D:\ProjectsVisualStudio\hristoCircleConsole\hristoCircleConsole\obj\Debug\hristoCircleConsole.exe
+D:\ProjectsVisualStudio\hristoCircleConsole\hristoCircleConsole\obj\Debug\hristoCircleConsole.pdb

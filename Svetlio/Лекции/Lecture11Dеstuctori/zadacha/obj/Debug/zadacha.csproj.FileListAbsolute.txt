@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture11Dstuctori\zadacha\bin\Debug\zadacha.exe.config
+E:\Projects\ZaUtre\Lecture11Dstuctori\zadacha\bin\Debug\zadacha.exe
+E:\Projects\ZaUtre\Lecture11Dstuctori\zadacha\bin\Debug\zadacha.pdb
+E:\Projects\ZaUtre\Lecture11Dstuctori\zadacha\obj\Debug\zadacha.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture11Dstuctori\zadacha\obj\Debug\zadacha.exe
+E:\Projects\ZaUtre\Lecture11Dstuctori\zadacha\obj\Debug\zadacha.pdb

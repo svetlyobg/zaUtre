@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture10JaggedArrays\banan\bin\Debug\banan.exe.config
+E:\Projects\ZaUtre\Lecture10JaggedArrays\banan\bin\Debug\banan.exe
+E:\Projects\ZaUtre\Lecture10JaggedArrays\banan\bin\Debug\banan.pdb
+E:\Projects\ZaUtre\Lecture10JaggedArrays\banan\obj\Debug\banan.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture10JaggedArrays\banan\obj\Debug\banan.exe
+E:\Projects\ZaUtre\Lecture10JaggedArrays\banan\obj\Debug\banan.pdb

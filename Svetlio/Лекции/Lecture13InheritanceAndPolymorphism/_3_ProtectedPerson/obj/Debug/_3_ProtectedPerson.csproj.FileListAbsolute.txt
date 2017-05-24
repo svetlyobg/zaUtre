@@ -1,0 +1,11 @@
+E:\Projects\ZaUtre\_1_\_3_ProtectedPerson\bin\Debug\_3_ProtectedPerson.exe.config
+E:\Projects\ZaUtre\_1_\_3_ProtectedPerson\bin\Debug\_3_ProtectedPerson.exe
+E:\Projects\ZaUtre\_1_\_3_ProtectedPerson\bin\Debug\_3_ProtectedPerson.pdb
+E:\Projects\ZaUtre\_1_\_3_ProtectedPerson\obj\Debug\_3_ProtectedPerson.exe
+E:\Projects\ZaUtre\_1_\_3_ProtectedPerson\obj\Debug\_3_ProtectedPerson.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_3_ProtectedPerson\bin\Debug\_3_ProtectedPerson.exe.config
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_3_ProtectedPerson\bin\Debug\_3_ProtectedPerson.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_3_ProtectedPerson\bin\Debug\_3_ProtectedPerson.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_3_ProtectedPerson\obj\Debug\_3_ProtectedPerson.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_3_ProtectedPerson\obj\Debug\_3_ProtectedPerson.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_3_ProtectedPerson\obj\Debug\_3_ProtectedPerson.pdb

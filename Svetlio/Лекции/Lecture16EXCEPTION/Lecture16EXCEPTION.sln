@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_Exception_Error", "Lecture16EXCEPTION\_1_Exception_Error.csproj", "{DC4D0D9A-96FD-4F01-B7DB-B2644C8BD090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_", "_2_\_2_.csproj", "{D7559927-2962-41BC-8D5B-66A256F7F619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3_", "_3_\_3_.csproj", "{5283EC6D-C448-494A-923B-9D7B8C0EEA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_", "_4_\_4_.csproj", "{83730600-BEC2-4B74-87BA-77A0759E716A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5_Finally", "_5_Finally\_5_Finally.csproj", "{D95B1CFA-864F-4583-ABB1-66C1ABD4291E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_6_zadacha", "_6_zadacha\_6_zadacha.csproj", "{A1642E20-0D22-4320-986F-1FCA98D5432B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_Fibunachi", "_7_Fibunachi\_7_Fibunachi.csproj", "{1FBA89C6-FCE2-4054-A922-F1035F73D715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_excercise", "_8_excercise\_8_excercise.csproj", "{8E7ED1C3-5E58-48CF-8298-8854A95A8428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBA89C6-FCE2-4054-A922-F1035F73D715}.Debug|x86.ActiveCfg = Debug|x86
+		{1FBA89C6-FCE2-4054-A922-F1035F73D715}.Debug|x86.Build.0 = Debug|x86
+		{1FBA89C6-FCE2-4054-A922-F1035F73D715}.Release|x86.ActiveCfg = Release|x86
+		{1FBA89C6-FCE2-4054-A922-F1035F73D715}.Release|x86.Build.0 = Release|x86
+		{5283EC6D-C448-494A-923B-9D7B8C0EEA52}.Debug|x86.ActiveCfg = Debug|x86
+		{5283EC6D-C448-494A-923B-9D7B8C0EEA52}.Debug|x86.Build.0 = Debug|x86
+		{5283EC6D-C448-494A-923B-9D7B8C0EEA52}.Release|x86.ActiveCfg = Release|x86
+		{5283EC6D-C448-494A-923B-9D7B8C0EEA52}.Release|x86.Build.0 = Release|x86
+		{83730600-BEC2-4B74-87BA-77A0759E716A}.Debug|x86.ActiveCfg = Debug|x86
+		{83730600-BEC2-4B74-87BA-77A0759E716A}.Debug|x86.Build.0 = Debug|x86
+		{83730600-BEC2-4B74-87BA-77A0759E716A}.Release|x86.ActiveCfg = Release|x86
+		{83730600-BEC2-4B74-87BA-77A0759E716A}.Release|x86.Build.0 = Release|x86
+		{8E7ED1C3-5E58-48CF-8298-8854A95A8428}.Debug|x86.ActiveCfg = Debug|x86
+		{8E7ED1C3-5E58-48CF-8298-8854A95A8428}.Debug|x86.Build.0 = Debug|x86
+		{8E7ED1C3-5E58-48CF-8298-8854A95A8428}.Release|x86.ActiveCfg = Release|x86
+		{8E7ED1C3-5E58-48CF-8298-8854A95A8428}.Release|x86.Build.0 = Release|x86
+		{A1642E20-0D22-4320-986F-1FCA98D5432B}.Debug|x86.ActiveCfg = Debug|x86
+		{A1642E20-0D22-4320-986F-1FCA98D5432B}.Debug|x86.Build.0 = Debug|x86
+		{A1642E20-0D22-4320-986F-1FCA98D5432B}.Release|x86.ActiveCfg = Release|x86
+		{A1642E20-0D22-4320-986F-1FCA98D5432B}.Release|x86.Build.0 = Release|x86
+		{D7559927-2962-41BC-8D5B-66A256F7F619}.Debug|x86.ActiveCfg = Debug|x86
+		{D7559927-2962-41BC-8D5B-66A256F7F619}.Debug|x86.Build.0 = Debug|x86
+		{D7559927-2962-41BC-8D5B-66A256F7F619}.Release|x86.ActiveCfg = Release|x86
+		{D7559927-2962-41BC-8D5B-66A256F7F619}.Release|x86.Build.0 = Release|x86
+		{D95B1CFA-864F-4583-ABB1-66C1ABD4291E}.Debug|x86.ActiveCfg = Debug|x86
+		{D95B1CFA-864F-4583-ABB1-66C1ABD4291E}.Debug|x86.Build.0 = Debug|x86
+		{D95B1CFA-864F-4583-ABB1-66C1ABD4291E}.Release|x86.ActiveCfg = Release|x86
+		{D95B1CFA-864F-4583-ABB1-66C1ABD4291E}.Release|x86.Build.0 = Release|x86
+		{DC4D0D9A-96FD-4F01-B7DB-B2644C8BD090}.Debug|x86.ActiveCfg = Debug|x86
+		{DC4D0D9A-96FD-4F01-B7DB-B2644C8BD090}.Debug|x86.Build.0 = Debug|x86
+		{DC4D0D9A-96FD-4F01-B7DB-B2644C8BD090}.Release|x86.ActiveCfg = Release|x86
+		{DC4D0D9A-96FD-4F01-B7DB-B2644C8BD090}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

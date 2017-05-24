@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecure3Solution\third\bin\Debug\third.exe.config
+E:\Projects\ZaUtre\Lecure3Solution\third\bin\Debug\third.exe
+E:\Projects\ZaUtre\Lecure3Solution\third\bin\Debug\third.pdb
+E:\Projects\ZaUtre\Lecure3Solution\third\obj\Debug\third.exe
+E:\Projects\ZaUtre\Lecure3Solution\third\obj\Debug\third.pdb

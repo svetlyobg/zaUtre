@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeworkPrintASCIICharachters", "homeworkPrintASCIICharachters\homeworkPrintASCIICharachters.csproj", "{DBDCCBB2-D3B0-4CF9-919B-8D47DD407BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secondMethod", "secondMethod\secondMethod.csproj", "{6ACE77D3-443E-430C-BD1D-3169D22E4994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDCCBB2-D3B0-4CF9-919B-8D47DD407BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDCCBB2-D3B0-4CF9-919B-8D47DD407BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDCCBB2-D3B0-4CF9-919B-8D47DD407BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDCCBB2-D3B0-4CF9-919B-8D47DD407BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACE77D3-443E-430C-BD1D-3169D22E4994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACE77D3-443E-430C-BD1D-3169D22E4994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACE77D3-443E-430C-BD1D-3169D22E4994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACE77D3-443E-430C-BD1D-3169D22E4994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

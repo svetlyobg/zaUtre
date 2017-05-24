@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecure3Solution\plusPlusSymbol\bin\Debug\plusPlusSymbol.exe.config
+E:\Projects\ZaUtre\Lecure3Solution\plusPlusSymbol\bin\Debug\plusPlusSymbol.exe
+E:\Projects\ZaUtre\Lecure3Solution\plusPlusSymbol\bin\Debug\plusPlusSymbol.pdb
+E:\Projects\ZaUtre\Lecure3Solution\plusPlusSymbol\obj\Debug\plusPlusSymbol.exe
+E:\Projects\ZaUtre\Lecure3Solution\plusPlusSymbol\obj\Debug\plusPlusSymbol.pdb

@@ -1,0 +1,5 @@
+E:\csharp\Lecture16EXCEPTION\Lecture16EXCEPTION\_8_excercise\bin\Debug\_8_excercise.exe
+E:\csharp\Lecture16EXCEPTION\Lecture16EXCEPTION\_8_excercise\bin\Debug\_8_excercise.pdb
+E:\csharp\Lecture16EXCEPTION\Lecture16EXCEPTION\_8_excercise\obj\x86\Debug\_8_excercise.csprojResolveAssemblyReference.cache
+E:\csharp\Lecture16EXCEPTION\Lecture16EXCEPTION\_8_excercise\obj\x86\Debug\_8_excercise.exe
+E:\csharp\Lecture16EXCEPTION\Lecture16EXCEPTION\_8_excercise\obj\x86\Debug\_8_excercise.pdb

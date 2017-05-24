@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture11Dstuctori\Lecture11Dstuctori\bin\Debug\Lecture11Dstuctori.exe.config
+E:\Projects\ZaUtre\Lecture11Dstuctori\Lecture11Dstuctori\bin\Debug\Lecture11Dstuctori.exe
+E:\Projects\ZaUtre\Lecture11Dstuctori\Lecture11Dstuctori\bin\Debug\Lecture11Dstuctori.pdb
+E:\Projects\ZaUtre\Lecture11Dstuctori\Lecture11Dstuctori\obj\Debug\Lecture11Dstuctori.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture11Dstuctori\Lecture11Dstuctori\obj\Debug\Lecture11Dstuctori.exe
+E:\Projects\ZaUtre\Lecture11Dstuctori\Lecture11Dstuctori\obj\Debug\Lecture11Dstuctori.pdb

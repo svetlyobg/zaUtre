@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture7Classes\WhatsCommonBetweenPeople\bin\Debug\WhatsCommonBetweenPeople.exe.config
+E:\Projects\ZaUtre\Lecture7Classes\WhatsCommonBetweenPeople\bin\Debug\WhatsCommonBetweenPeople.exe
+E:\Projects\ZaUtre\Lecture7Classes\WhatsCommonBetweenPeople\bin\Debug\WhatsCommonBetweenPeople.pdb
+E:\Projects\ZaUtre\Lecture7Classes\WhatsCommonBetweenPeople\obj\Debug\WhatsCommonBetweenPeople.exe
+E:\Projects\ZaUtre\Lecture7Classes\WhatsCommonBetweenPeople\obj\Debug\WhatsCommonBetweenPeople.pdb

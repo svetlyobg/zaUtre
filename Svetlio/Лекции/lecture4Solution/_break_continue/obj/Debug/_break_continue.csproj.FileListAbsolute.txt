@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\lecture4Solution\_break_continue\bin\Debug\_break_continue.exe.config
+E:\Projects\ZaUtre\lecture4Solution\_break_continue\bin\Debug\_break_continue.exe
+E:\Projects\ZaUtre\lecture4Solution\_break_continue\bin\Debug\_break_continue.pdb
+E:\Projects\ZaUtre\lecture4Solution\_break_continue\obj\Debug\_break_continue.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\lecture4Solution\_break_continue\obj\Debug\_break_continue.exe
+E:\Projects\ZaUtre\lecture4Solution\_break_continue\obj\Debug\_break_continue.pdb

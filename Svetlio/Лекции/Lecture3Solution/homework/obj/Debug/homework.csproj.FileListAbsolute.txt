@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecure3Solution\homework\bin\Debug\homework.exe.config
+E:\Projects\ZaUtre\Lecure3Solution\homework\bin\Debug\homework.exe
+E:\Projects\ZaUtre\Lecure3Solution\homework\bin\Debug\homework.pdb
+E:\Projects\ZaUtre\Lecure3Solution\homework\obj\Debug\homework.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecure3Solution\homework\obj\Debug\homework.exe
+E:\Projects\ZaUtre\Lecure3Solution\homework\obj\Debug\homework.pdb

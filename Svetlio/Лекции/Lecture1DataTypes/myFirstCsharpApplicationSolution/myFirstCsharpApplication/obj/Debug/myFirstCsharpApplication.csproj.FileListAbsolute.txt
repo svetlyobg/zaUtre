@@ -1,0 +1,9 @@
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\bin\Debug\myFirstCsharpApplication.exe.config
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\bin\Debug\myFirstCsharpApplication.exe
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\bin\Debug\myFirstCsharpApplication.pdb
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\obj\Debug\myFirstCsharpApplication.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\obj\Debug\myFirstCsharpApplication.Form1.resources
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\obj\Debug\myFirstCsharpApplication.Properties.Resources.resources
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\obj\Debug\myFirstCsharpApplication.csproj.GenerateResource.Cache
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\obj\Debug\myFirstCsharpApplication.exe
+E:\Projects\ZaUtre\myFirstCsharpApplicationSolution\myFirstCsharpApplication\obj\Debug\myFirstCsharpApplication.pdb

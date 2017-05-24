@@ -1,0 +1,10 @@
+E:\Projects\ZaUtre\lecture4Solution\_exitBreakLoop\bin\Debug\_exitBreakLoop.exe.config
+E:\Projects\ZaUtre\lecture4Solution\_exitBreakLoop\bin\Debug\_exitBreakLoop.exe
+E:\Projects\ZaUtre\lecture4Solution\_exitBreakLoop\bin\Debug\_exitBreakLoop.pdb
+E:\Projects\ZaUtre\lecture4Solution\_exitBreakLoop\obj\Debug\_exitBreakLoop.exe
+E:\Projects\ZaUtre\lecture4Solution\_exitBreakLoop\obj\Debug\_exitBreakLoop.pdb
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lecture4Solution\_exitBreakLoop\bin\Debug\_exitBreakLoop.exe.config
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lecture4Solution\_exitBreakLoop\bin\Debug\_exitBreakLoop.exe
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lecture4Solution\_exitBreakLoop\bin\Debug\_exitBreakLoop.pdb
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lecture4Solution\_exitBreakLoop\obj\Debug\_exitBreakLoop.exe
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lecture4Solution\_exitBreakLoop\obj\Debug\_exitBreakLoop.pdb

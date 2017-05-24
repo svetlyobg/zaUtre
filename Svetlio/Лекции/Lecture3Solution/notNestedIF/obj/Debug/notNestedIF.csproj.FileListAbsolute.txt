@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecure3Solution\notNestedIF\bin\Debug\notNestedIF.exe.config
+E:\Projects\ZaUtre\Lecure3Solution\notNestedIF\bin\Debug\notNestedIF.exe
+E:\Projects\ZaUtre\Lecure3Solution\notNestedIF\bin\Debug\notNestedIF.pdb
+E:\Projects\ZaUtre\Lecure3Solution\notNestedIF\obj\Debug\notNestedIF.exe
+E:\Projects\ZaUtre\Lecure3Solution\notNestedIF\obj\Debug\notNestedIF.pdb

@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecure3Solution\lastProject\bin\Debug\lastProject.exe.config
+E:\Projects\ZaUtre\Lecure3Solution\lastProject\bin\Debug\lastProject.exe
+E:\Projects\ZaUtre\Lecure3Solution\lastProject\bin\Debug\lastProject.pdb
+E:\Projects\ZaUtre\Lecure3Solution\lastProject\obj\Debug\lastProject.exe
+E:\Projects\ZaUtre\Lecure3Solution\lastProject\obj\Debug\lastProject.pdb

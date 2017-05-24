@@ -1,0 +1,11 @@
+D:\ProjectsVisualStudio\home\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+D:\ProjectsVisualStudio\home\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+D:\ProjectsVisualStudio\home\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+D:\ProjectsVisualStudio\home\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+D:\ProjectsVisualStudio\home\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+D:\ProjectsVisualStudio\home\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\Svetlozar\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Svetlozar\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\Svetlozar\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\Svetlozar\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Svetlozar\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.pdb

@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture7Classes\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Projects\ZaUtre\Lecture7Classes\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Projects\ZaUtre\Lecture7Classes\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Projects\ZaUtre\Lecture7Classes\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Projects\ZaUtre\Lecture7Classes\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

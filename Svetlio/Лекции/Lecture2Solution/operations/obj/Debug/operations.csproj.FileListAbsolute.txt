@@ -1,0 +1,10 @@
+E:\Projects\ZaUtre\lectureTwoSolution\operations\bin\Debug\operations.exe.config
+E:\Projects\ZaUtre\lectureTwoSolution\operations\bin\Debug\operations.exe
+E:\Projects\ZaUtre\lectureTwoSolution\operations\bin\Debug\operations.pdb
+E:\Projects\ZaUtre\lectureTwoSolution\operations\obj\Debug\operations.exe
+E:\Projects\ZaUtre\lectureTwoSolution\operations\obj\Debug\operations.pdb
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\operations\bin\Debug\operations.exe.config
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\operations\bin\Debug\operations.exe
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\operations\bin\Debug\operations.pdb
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\operations\obj\Debug\operations.exe
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\operations\obj\Debug\operations.pdb

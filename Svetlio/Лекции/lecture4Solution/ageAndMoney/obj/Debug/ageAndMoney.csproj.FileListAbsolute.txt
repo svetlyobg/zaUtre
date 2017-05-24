@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\lecture4Solution\ageAndMoney\bin\Debug\ageAndMoney.exe.config
+E:\Projects\ZaUtre\lecture4Solution\ageAndMoney\bin\Debug\ageAndMoney.exe
+E:\Projects\ZaUtre\lecture4Solution\ageAndMoney\bin\Debug\ageAndMoney.pdb
+E:\Projects\ZaUtre\lecture4Solution\ageAndMoney\obj\Debug\ageAndMoney.exe
+E:\Projects\ZaUtre\lecture4Solution\ageAndMoney\obj\Debug\ageAndMoney.pdb

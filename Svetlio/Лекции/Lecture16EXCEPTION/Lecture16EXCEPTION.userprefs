@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="_8_excercise/_8_excercise.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_8_excercise/Program.cs">
+    <Files>
+      <File FileName="_6_zadacha/Program.cs" Line="1" Column="1" />
+      <File FileName="_2_/Program.cs" Line="1" Column="1" />
+      <File FileName="_7_Fibunachi/Program.cs" Line="1" Column="1" />
+      <File FileName="_8_excercise/Program.cs" Line="69" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

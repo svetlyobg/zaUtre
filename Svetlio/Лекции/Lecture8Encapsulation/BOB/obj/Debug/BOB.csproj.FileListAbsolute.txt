@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture8Encapsulation\BOB\bin\Debug\BOB.exe.config
+E:\Projects\ZaUtre\Lecture8Encapsulation\BOB\bin\Debug\BOB.exe
+E:\Projects\ZaUtre\Lecture8Encapsulation\BOB\bin\Debug\BOB.pdb
+E:\Projects\ZaUtre\Lecture8Encapsulation\BOB\obj\Debug\BOB.exe
+E:\Projects\ZaUtre\Lecture8Encapsulation\BOB\obj\Debug\BOB.pdb

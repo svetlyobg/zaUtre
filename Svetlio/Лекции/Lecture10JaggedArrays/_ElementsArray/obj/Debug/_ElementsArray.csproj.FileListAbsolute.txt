@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture10JaggedArrays\_ElementsArray\bin\Debug\_ElementsArray.exe.config
+E:\Projects\ZaUtre\Lecture10JaggedArrays\_ElementsArray\bin\Debug\_ElementsArray.exe
+E:\Projects\ZaUtre\Lecture10JaggedArrays\_ElementsArray\bin\Debug\_ElementsArray.pdb
+E:\Projects\ZaUtre\Lecture10JaggedArrays\_ElementsArray\obj\Debug\_ElementsArray.exe
+E:\Projects\ZaUtre\Lecture10JaggedArrays\_ElementsArray\obj\Debug\_ElementsArray.pdb

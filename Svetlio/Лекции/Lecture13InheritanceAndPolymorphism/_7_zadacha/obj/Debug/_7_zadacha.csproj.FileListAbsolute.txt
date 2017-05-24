@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_7_zadacha\bin\Debug\_7_zadacha.exe.config
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_7_zadacha\bin\Debug\_7_zadacha.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_7_zadacha\bin\Debug\_7_zadacha.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_7_zadacha\obj\Debug\_7_zadacha.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_7_zadacha\obj\Debug\_7_zadacha.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_7_zadacha\obj\Debug\_7_zadacha.pdb

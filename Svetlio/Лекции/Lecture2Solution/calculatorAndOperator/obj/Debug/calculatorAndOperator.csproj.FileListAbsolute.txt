@@ -1,0 +1,12 @@
+E:\Projects\ZaUtre\lectureTwoSolution\calculatorAndOperator\bin\Debug\calculatorAndOperator.exe.config
+E:\Projects\ZaUtre\lectureTwoSolution\calculatorAndOperator\bin\Debug\calculatorAndOperator.exe
+E:\Projects\ZaUtre\lectureTwoSolution\calculatorAndOperator\bin\Debug\calculatorAndOperator.pdb
+E:\Projects\ZaUtre\lectureTwoSolution\calculatorAndOperator\obj\Debug\calculatorAndOperator.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\lectureTwoSolution\calculatorAndOperator\obj\Debug\calculatorAndOperator.exe
+E:\Projects\ZaUtre\lectureTwoSolution\calculatorAndOperator\obj\Debug\calculatorAndOperator.pdb
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\calculatorAndOperator\obj\Debug\calculatorAndOperator.csprojResolveAssemblyReference.cache
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\calculatorAndOperator\obj\Debug\calculatorAndOperator.exe
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\calculatorAndOperator\obj\Debug\calculatorAndOperator.pdb
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\calculatorAndOperator\bin\Debug\calculatorAndOperator.exe.config
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\calculatorAndOperator\bin\Debug\calculatorAndOperator.exe
+D:\ProjectsVisualStudio\Homeworks\Svetlio\Лекции\lectureTwoSolution\calculatorAndOperator\bin\Debug\calculatorAndOperator.pdb

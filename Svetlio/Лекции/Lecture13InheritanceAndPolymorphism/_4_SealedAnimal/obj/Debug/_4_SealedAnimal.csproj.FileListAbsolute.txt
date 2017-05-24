@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_4_SealedAnimal\bin\Debug\_4_SealedAnimal.exe.config
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_4_SealedAnimal\bin\Debug\_4_SealedAnimal.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_4_SealedAnimal\bin\Debug\_4_SealedAnimal.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_4_SealedAnimal\obj\Debug\_4_SealedAnimal.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_4_SealedAnimal\obj\Debug\_4_SealedAnimal.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_4_SealedAnimal\obj\Debug\_4_SealedAnimal.pdb

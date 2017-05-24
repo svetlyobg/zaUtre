@@ -1,0 +1,10 @@
+E:\Projects\ZaUtre\_1_\_5_ConstructorsAndDestructors\bin\Debug\_5_ConstructorsAndDestructors.exe.config
+E:\Projects\ZaUtre\_1_\_5_ConstructorsAndDestructors\bin\Debug\_5_ConstructorsAndDestructors.exe
+E:\Projects\ZaUtre\_1_\_5_ConstructorsAndDestructors\bin\Debug\_5_ConstructorsAndDestructors.pdb
+E:\Projects\ZaUtre\_1_\_5_ConstructorsAndDestructors\obj\Debug\_5_ConstructorsAndDestructors.exe
+E:\Projects\ZaUtre\_1_\_5_ConstructorsAndDestructors\obj\Debug\_5_ConstructorsAndDestructors.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_5_ConstructorsAndDestructors\bin\Debug\_5_ConstructorsAndDestructors.exe.config
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_5_ConstructorsAndDestructors\bin\Debug\_5_ConstructorsAndDestructors.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_5_ConstructorsAndDestructors\bin\Debug\_5_ConstructorsAndDestructors.pdb
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_5_ConstructorsAndDestructors\obj\Debug\_5_ConstructorsAndDestructors.exe
+E:\Projects\ZaUtre\Lecture13InheritanceAndPolymorphism\_5_ConstructorsAndDestructors\obj\Debug\_5_ConstructorsAndDestructors.pdb

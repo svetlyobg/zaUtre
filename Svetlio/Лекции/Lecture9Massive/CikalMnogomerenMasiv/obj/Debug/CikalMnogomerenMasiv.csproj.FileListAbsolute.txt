@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture8Massive\CikalMnogomerenMasiv\bin\Debug\CikalMnogomerenMasiv.exe.config
+E:\Projects\ZaUtre\Lecture8Massive\CikalMnogomerenMasiv\bin\Debug\CikalMnogomerenMasiv.exe
+E:\Projects\ZaUtre\Lecture8Massive\CikalMnogomerenMasiv\bin\Debug\CikalMnogomerenMasiv.pdb
+E:\Projects\ZaUtre\Lecture8Massive\CikalMnogomerenMasiv\obj\Debug\CikalMnogomerenMasiv.exe
+E:\Projects\ZaUtre\Lecture8Massive\CikalMnogomerenMasiv\obj\Debug\CikalMnogomerenMasiv.pdb

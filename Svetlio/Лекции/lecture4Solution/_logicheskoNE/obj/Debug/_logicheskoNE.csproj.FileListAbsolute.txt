@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\lecture4Solution\_logicheskoNE\bin\Debug\_logicheskoNE.exe.config
+E:\Projects\ZaUtre\lecture4Solution\_logicheskoNE\bin\Debug\_logicheskoNE.exe
+E:\Projects\ZaUtre\lecture4Solution\_logicheskoNE\bin\Debug\_logicheskoNE.pdb
+E:\Projects\ZaUtre\lecture4Solution\_logicheskoNE\obj\Debug\_logicheskoNE.exe
+E:\Projects\ZaUtre\lecture4Solution\_logicheskoNE\obj\Debug\_logicheskoNE.pdb

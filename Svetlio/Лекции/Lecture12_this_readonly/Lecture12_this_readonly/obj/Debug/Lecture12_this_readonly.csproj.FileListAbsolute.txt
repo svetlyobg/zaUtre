@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture12_this_readonly\Lecture12_this_readonly\bin\Debug\Lecture12_this_readonly.exe.config
+E:\Projects\ZaUtre\Lecture12_this_readonly\Lecture12_this_readonly\bin\Debug\Lecture12_this_readonly.exe
+E:\Projects\ZaUtre\Lecture12_this_readonly\Lecture12_this_readonly\bin\Debug\Lecture12_this_readonly.pdb
+E:\Projects\ZaUtre\Lecture12_this_readonly\Lecture12_this_readonly\obj\Debug\Lecture12_this_readonly.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture12_this_readonly\Lecture12_this_readonly\obj\Debug\Lecture12_this_readonly.exe
+E:\Projects\ZaUtre\Lecture12_this_readonly\Lecture12_this_readonly\obj\Debug\Lecture12_this_readonly.pdb

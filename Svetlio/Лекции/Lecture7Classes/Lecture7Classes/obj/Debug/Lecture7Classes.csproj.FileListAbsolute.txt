@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture7Classes\Lecture7Classes\bin\Debug\Lecture7Classes.exe.config
+E:\Projects\ZaUtre\Lecture7Classes\Lecture7Classes\bin\Debug\Lecture7Classes.exe
+E:\Projects\ZaUtre\Lecture7Classes\Lecture7Classes\bin\Debug\Lecture7Classes.pdb
+E:\Projects\ZaUtre\Lecture7Classes\Lecture7Classes\obj\Debug\Lecture7Classes.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture7Classes\Lecture7Classes\obj\Debug\Lecture7Classes.exe
+E:\Projects\ZaUtre\Lecture7Classes\Lecture7Classes\obj\Debug\Lecture7Classes.pdb

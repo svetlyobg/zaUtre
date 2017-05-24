@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\lectureTwoSolution\addNumbers\bin\Debug\addNumbers.exe.config
+E:\Projects\ZaUtre\lectureTwoSolution\addNumbers\bin\Debug\addNumbers.exe
+E:\Projects\ZaUtre\lectureTwoSolution\addNumbers\bin\Debug\addNumbers.pdb
+E:\Projects\ZaUtre\lectureTwoSolution\addNumbers\obj\Debug\addNumbers.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\lectureTwoSolution\addNumbers\obj\Debug\addNumbers.exe
+E:\Projects\ZaUtre\lectureTwoSolution\addNumbers\obj\Debug\addNumbers.pdb

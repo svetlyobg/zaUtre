@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecure3Solution\_swithStatement\bin\Debug\_swithStatement.exe.config
+E:\Projects\ZaUtre\Lecure3Solution\_swithStatement\bin\Debug\_swithStatement.exe
+E:\Projects\ZaUtre\Lecure3Solution\_swithStatement\bin\Debug\_swithStatement.pdb
+E:\Projects\ZaUtre\Lecure3Solution\_swithStatement\obj\Debug\_swithStatement.exe
+E:\Projects\ZaUtre\Lecure3Solution\_swithStatement\obj\Debug\_swithStatement.pdb

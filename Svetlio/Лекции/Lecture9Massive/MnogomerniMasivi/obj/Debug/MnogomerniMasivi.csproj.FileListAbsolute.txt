@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture8Massive\MnogomerniMasivi\bin\Debug\MnogomerniMasivi.exe.config
+E:\Projects\ZaUtre\Lecture8Massive\MnogomerniMasivi\bin\Debug\MnogomerniMasivi.exe
+E:\Projects\ZaUtre\Lecture8Massive\MnogomerniMasivi\bin\Debug\MnogomerniMasivi.pdb
+E:\Projects\ZaUtre\Lecture8Massive\MnogomerniMasivi\obj\Debug\MnogomerniMasivi.exe
+E:\Projects\ZaUtre\Lecture8Massive\MnogomerniMasivi\obj\Debug\MnogomerniMasivi.pdb

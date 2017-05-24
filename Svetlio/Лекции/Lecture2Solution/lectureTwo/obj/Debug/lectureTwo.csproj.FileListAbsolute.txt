@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\lectureTwoSolution\lectureTwo\bin\Debug\lectureTwo.exe.config
+E:\Projects\ZaUtre\lectureTwoSolution\lectureTwo\bin\Debug\lectureTwo.exe
+E:\Projects\ZaUtre\lectureTwoSolution\lectureTwo\bin\Debug\lectureTwo.pdb
+E:\Projects\ZaUtre\lectureTwoSolution\lectureTwo\obj\Debug\lectureTwo.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\lectureTwoSolution\lectureTwo\obj\Debug\lectureTwo.exe
+E:\Projects\ZaUtre\lectureTwoSolution\lectureTwo\obj\Debug\lectureTwo.pdb

@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\lectureTwoSolution\calculator\bin\Debug\calculator.exe.config
+E:\Projects\ZaUtre\lectureTwoSolution\calculator\bin\Debug\calculator.exe
+E:\Projects\ZaUtre\lectureTwoSolution\calculator\bin\Debug\calculator.pdb
+E:\Projects\ZaUtre\lectureTwoSolution\calculator\obj\Debug\calculator.exe
+E:\Projects\ZaUtre\lectureTwoSolution\calculator\obj\Debug\calculator.pdb

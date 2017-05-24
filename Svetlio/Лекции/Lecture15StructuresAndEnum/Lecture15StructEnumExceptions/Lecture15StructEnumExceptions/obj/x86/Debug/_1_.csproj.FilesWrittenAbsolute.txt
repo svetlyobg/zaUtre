@@ -1,0 +1,5 @@
+/home/svet/Документи/CSharp/Lecture15StructuresAndEnum/Lecture15StructEnumExceptions/Lecture15StructEnumExceptions/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/svet/Документи/CSharp/Lecture15StructuresAndEnum/Lecture15StructEnumExceptions/Lecture15StructEnumExceptions/bin/Debug/Lecture15StructEnumExceptions.pdb
+/home/svet/Документи/CSharp/Lecture15StructuresAndEnum/Lecture15StructEnumExceptions/Lecture15StructEnumExceptions/bin/Debug/Lecture15StructEnumExceptions.exe
+/home/svet/Документи/CSharp/Lecture15StructuresAndEnum/Lecture15StructEnumExceptions/Lecture15StructEnumExceptions/obj/x86/Debug/Lecture15StructEnumExceptions.exe
+/home/svet/Документи/CSharp/Lecture15StructuresAndEnum/Lecture15StructEnumExceptions/Lecture15StructEnumExceptions/obj/x86/Debug/Lecture15StructEnumExceptions.pdb

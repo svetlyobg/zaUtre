@@ -1,0 +1,3 @@
+﻿искам в понеделник да ми разясниш кода...
+
+// източник на кода http://www.c-sharpcorner.com/forums/draw-a-circle-in-c-sharp-console

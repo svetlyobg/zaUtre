@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture8Massive\MasivOtMasivi\bin\Debug\MasivOtMasivi.exe.config
+E:\Projects\ZaUtre\Lecture8Massive\MasivOtMasivi\bin\Debug\MasivOtMasivi.exe
+E:\Projects\ZaUtre\Lecture8Massive\MasivOtMasivi\bin\Debug\MasivOtMasivi.pdb
+E:\Projects\ZaUtre\Lecture8Massive\MasivOtMasivi\obj\Debug\MasivOtMasivi.exe
+E:\Projects\ZaUtre\Lecture8Massive\MasivOtMasivi\obj\Debug\MasivOtMasivi.pdb

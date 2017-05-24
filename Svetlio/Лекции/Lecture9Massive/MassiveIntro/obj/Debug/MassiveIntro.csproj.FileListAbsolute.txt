@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture8Massive\MassiveIntro\bin\Debug\MassiveIntro.exe.config
+E:\Projects\ZaUtre\Lecture8Massive\MassiveIntro\bin\Debug\MassiveIntro.exe
+E:\Projects\ZaUtre\Lecture8Massive\MassiveIntro\bin\Debug\MassiveIntro.pdb
+E:\Projects\ZaUtre\Lecture8Massive\MassiveIntro\obj\Debug\MassiveIntro.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture8Massive\MassiveIntro\obj\Debug\MassiveIntro.exe
+E:\Projects\ZaUtre\Lecture8Massive\MassiveIntro\obj\Debug\MassiveIntro.pdb

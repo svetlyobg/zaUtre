@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture5Methods", "Lecture5Methods\Lecture5Methods.csproj", "{2F78CD41-FC03-41FF-89FC-2AD405A3893C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_overload", "_overload\_overload.csproj", "{E664AD50-3F5B-4BD1-971C-40748E115547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_recursion", "_recursion\_recursion.csproj", "{D2A8D62A-5921-4AD6-A541-8A168DCDC776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pyramid", "pyramid\pyramid.csproj", "{ADC754F0-03F5-4657-8C50-00A16CF2F814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_x_out_y_out", "_x_out_y_out\_x_out_y_out.csproj", "{07D9A53C-85CC-482D-8B28-926CF1757F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_switchValues", "_switchValues\_switchValues.csproj", "{D6895584-D365-43ED-A11A-80A2DBC035AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F78CD41-FC03-41FF-89FC-2AD405A3893C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F78CD41-FC03-41FF-89FC-2AD405A3893C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F78CD41-FC03-41FF-89FC-2AD405A3893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F78CD41-FC03-41FF-89FC-2AD405A3893C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E664AD50-3F5B-4BD1-971C-40748E115547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E664AD50-3F5B-4BD1-971C-40748E115547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E664AD50-3F5B-4BD1-971C-40748E115547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E664AD50-3F5B-4BD1-971C-40748E115547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A8D62A-5921-4AD6-A541-8A168DCDC776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A8D62A-5921-4AD6-A541-8A168DCDC776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A8D62A-5921-4AD6-A541-8A168DCDC776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A8D62A-5921-4AD6-A541-8A168DCDC776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC754F0-03F5-4657-8C50-00A16CF2F814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC754F0-03F5-4657-8C50-00A16CF2F814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC754F0-03F5-4657-8C50-00A16CF2F814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC754F0-03F5-4657-8C50-00A16CF2F814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D9A53C-85CC-482D-8B28-926CF1757F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D9A53C-85CC-482D-8B28-926CF1757F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D9A53C-85CC-482D-8B28-926CF1757F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D9A53C-85CC-482D-8B28-926CF1757F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6895584-D365-43ED-A11A-80A2DBC035AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6895584-D365-43ED-A11A-80A2DBC035AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6895584-D365-43ED-A11A-80A2DBC035AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6895584-D365-43ED-A11A-80A2DBC035AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

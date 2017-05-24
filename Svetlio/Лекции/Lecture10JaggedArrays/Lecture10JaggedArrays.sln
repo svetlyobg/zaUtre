@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture10JaggedArrays", "Lecture10JaggedArrays\Lecture10JaggedArrays.csproj", "{55B61558-6AA1-44C3-8833-358A1F5DF687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banan", "banan\banan.csproj", "{7F3B904F-47E2-486D-AA96-8B5C8F6AF346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ElementsArray", "_ElementsArray\_ElementsArray.csproj", "{EEAB1B33-2825-43FE-82F4-3AE9BD53A1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B61558-6AA1-44C3-8833-358A1F5DF687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B61558-6AA1-44C3-8833-358A1F5DF687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B61558-6AA1-44C3-8833-358A1F5DF687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B61558-6AA1-44C3-8833-358A1F5DF687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3B904F-47E2-486D-AA96-8B5C8F6AF346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3B904F-47E2-486D-AA96-8B5C8F6AF346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3B904F-47E2-486D-AA96-8B5C8F6AF346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3B904F-47E2-486D-AA96-8B5C8F6AF346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAB1B33-2825-43FE-82F4-3AE9BD53A1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAB1B33-2825-43FE-82F4-3AE9BD53A1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAB1B33-2825-43FE-82F4-3AE9BD53A1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAB1B33-2825-43FE-82F4-3AE9BD53A1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecure3Solution\LectureThree\bin\Debug\LectureThree.exe.config
+E:\Projects\ZaUtre\Lecure3Solution\LectureThree\bin\Debug\LectureThree.exe
+E:\Projects\ZaUtre\Lecure3Solution\LectureThree\bin\Debug\LectureThree.pdb
+E:\Projects\ZaUtre\Lecure3Solution\LectureThree\obj\Debug\LectureThree.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecure3Solution\LectureThree\obj\Debug\LectureThree.exe
+E:\Projects\ZaUtre\Lecure3Solution\LectureThree\obj\Debug\LectureThree.pdb

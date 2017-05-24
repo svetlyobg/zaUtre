@@ -1,0 +1,6 @@
+D:\ProjectsVisualStudio\home\_1_AbstractClassCar\_2_Interfaces\bin\Debug\_2_Interfaces.exe.config
+D:\ProjectsVisualStudio\home\_1_AbstractClassCar\_2_Interfaces\bin\Debug\_2_Interfaces.exe
+D:\ProjectsVisualStudio\home\_1_AbstractClassCar\_2_Interfaces\bin\Debug\_2_Interfaces.pdb
+D:\ProjectsVisualStudio\home\_1_AbstractClassCar\_2_Interfaces\obj\Debug\_2_Interfaces.exe
+D:\ProjectsVisualStudio\home\_1_AbstractClassCar\_2_Interfaces\obj\Debug\_2_Interfaces.pdb
+D:\ProjectsVisualStudio\home\_1_AbstractClassCar\_2_Interfaces\obj\Debug\_2_Interfaces.csprojResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+Структурите не поддържат онаследяване.
+
+Класовете се използват за по-комплексна логика.
+
+ENUM - за изброяване /дни седмица/
+enum Days {Sun, Mon, Tue, Wed, Thu, Fri, Sat}
+
+Използва се когато има switch - case.
+
+enum Days { Sun, Mon, Tue, Wed, Thu, Fri, Sat }; 
+static void Main(string[] args) {
+  int x = (int)Days.Tue;
+  Console.WriteLine(x);
+  //Outputs 2
+}
+
+
+EXCEPTIONS
+
+
+

@@ -1,0 +1,6 @@
+D:\ProjectsVisualStudio\home\bankAccountSMetodi\bankAccountSMetodi\bin\Debug\bankAccountSMetodi.exe.config
+D:\ProjectsVisualStudio\home\bankAccountSMetodi\bankAccountSMetodi\bin\Debug\bankAccountSMetodi.exe
+D:\ProjectsVisualStudio\home\bankAccountSMetodi\bankAccountSMetodi\bin\Debug\bankAccountSMetodi.pdb
+D:\ProjectsVisualStudio\home\bankAccountSMetodi\bankAccountSMetodi\obj\Debug\bankAccountSMetodi.csprojResolveAssemblyReference.cache
+D:\ProjectsVisualStudio\home\bankAccountSMetodi\bankAccountSMetodi\obj\Debug\bankAccountSMetodi.exe
+D:\ProjectsVisualStudio\home\bankAccountSMetodi\bankAccountSMetodi\obj\Debug\bankAccountSMetodi.pdb

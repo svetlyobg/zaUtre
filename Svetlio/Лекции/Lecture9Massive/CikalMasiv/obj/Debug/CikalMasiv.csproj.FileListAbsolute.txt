@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture8Massive\CikalMasiv\bin\Debug\CikalMasiv.exe.config
+E:\Projects\ZaUtre\Lecture8Massive\CikalMasiv\bin\Debug\CikalMasiv.exe
+E:\Projects\ZaUtre\Lecture8Massive\CikalMasiv\bin\Debug\CikalMasiv.pdb
+E:\Projects\ZaUtre\Lecture8Massive\CikalMasiv\obj\Debug\CikalMasiv.exe
+E:\Projects\ZaUtre\Lecture8Massive\CikalMasiv\obj\Debug\CikalMasiv.pdb

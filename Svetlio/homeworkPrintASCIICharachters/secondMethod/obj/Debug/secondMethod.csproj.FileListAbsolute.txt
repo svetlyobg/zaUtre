@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\homeworkPrintASCIICharachters\secondMethod\bin\Debug\secondMethod.exe.config
+E:\Projects\ZaUtre\homeworkPrintASCIICharachters\secondMethod\bin\Debug\secondMethod.exe
+E:\Projects\ZaUtre\homeworkPrintASCIICharachters\secondMethod\bin\Debug\secondMethod.pdb
+E:\Projects\ZaUtre\homeworkPrintASCIICharachters\secondMethod\obj\Debug\secondMethod.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\homeworkPrintASCIICharachters\secondMethod\obj\Debug\secondMethod.exe
+E:\Projects\ZaUtre\homeworkPrintASCIICharachters\secondMethod\obj\Debug\secondMethod.pdb

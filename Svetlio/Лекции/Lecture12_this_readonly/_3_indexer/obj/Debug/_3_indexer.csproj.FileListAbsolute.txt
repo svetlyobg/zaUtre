@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture12_this_readonly\_3_indexer\bin\Debug\_3_indexer.exe.config
+E:\Projects\ZaUtre\Lecture12_this_readonly\_3_indexer\bin\Debug\_3_indexer.exe
+E:\Projects\ZaUtre\Lecture12_this_readonly\_3_indexer\bin\Debug\_3_indexer.pdb
+E:\Projects\ZaUtre\Lecture12_this_readonly\_3_indexer\obj\Debug\_3_indexer.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture12_this_readonly\_3_indexer\obj\Debug\_3_indexer.exe
+E:\Projects\ZaUtre\Lecture12_this_readonly\_3_indexer\obj\Debug\_3_indexer.pdb

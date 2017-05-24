@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture12_this_readonly\timeout\bin\Debug\timeout.exe.config
+E:\Projects\ZaUtre\Lecture12_this_readonly\timeout\bin\Debug\timeout.exe
+E:\Projects\ZaUtre\Lecture12_this_readonly\timeout\bin\Debug\timeout.pdb
+E:\Projects\ZaUtre\Lecture12_this_readonly\timeout\obj\Debug\timeout.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture12_this_readonly\timeout\obj\Debug\timeout.exe
+E:\Projects\ZaUtre\Lecture12_this_readonly\timeout\obj\Debug\timeout.pdb

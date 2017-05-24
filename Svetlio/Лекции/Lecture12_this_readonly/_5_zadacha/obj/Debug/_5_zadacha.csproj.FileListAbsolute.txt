@@ -1,0 +1,5 @@
+E:\Projects\ZaUtre\Lecture12_this_readonly\_5_zadacha\bin\Debug\_5_zadacha.exe.config
+E:\Projects\ZaUtre\Lecture12_this_readonly\_5_zadacha\bin\Debug\_5_zadacha.exe
+E:\Projects\ZaUtre\Lecture12_this_readonly\_5_zadacha\bin\Debug\_5_zadacha.pdb
+E:\Projects\ZaUtre\Lecture12_this_readonly\_5_zadacha\obj\Debug\_5_zadacha.exe
+E:\Projects\ZaUtre\Lecture12_this_readonly\_5_zadacha\obj\Debug\_5_zadacha.pdb

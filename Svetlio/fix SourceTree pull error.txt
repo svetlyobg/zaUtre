@@ -1,0 +1,8 @@
+﻿(unable to update local ref)
+
+solution
+
+type this 2 commans in the terminal
+
+git gc --prune=now
+git remote prune origin

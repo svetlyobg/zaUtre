@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture8Encapsulation\kucheto\bin\Debug\kucheto.exe.config
+E:\Projects\ZaUtre\Lecture8Encapsulation\kucheto\bin\Debug\kucheto.exe
+E:\Projects\ZaUtre\Lecture8Encapsulation\kucheto\bin\Debug\kucheto.pdb
+E:\Projects\ZaUtre\Lecture8Encapsulation\kucheto\obj\Debug\kucheto.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture8Encapsulation\kucheto\obj\Debug\kucheto.exe
+E:\Projects\ZaUtre\Lecture8Encapsulation\kucheto\obj\Debug\kucheto.pdb

@@ -1,0 +1,6 @@
+E:\Projects\ZaUtre\Lecture8Massive\Zadacha\bin\Debug\Zadacha.exe.config
+E:\Projects\ZaUtre\Lecture8Massive\Zadacha\bin\Debug\Zadacha.exe
+E:\Projects\ZaUtre\Lecture8Massive\Zadacha\bin\Debug\Zadacha.pdb
+E:\Projects\ZaUtre\Lecture8Massive\Zadacha\obj\Debug\Zadacha.csprojResolveAssemblyReference.cache
+E:\Projects\ZaUtre\Lecture8Massive\Zadacha\obj\Debug\Zadacha.exe
+E:\Projects\ZaUtre\Lecture8Massive\Zadacha\obj\Debug\Zadacha.pdb
